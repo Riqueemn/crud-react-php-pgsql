@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Xamp
+Inicialze um servidor Xamp
+
+## Dependências
+Instale todas as dependências do node_module
+
+## Banco de dados
+
+Crie um banco de dados do postgresql e configure se banco com as seguintes caracteristicas
+host=localhost, port=5433, dbname=empresa, user=postgres, password=1234
+
 ## Available Scripts
 
 In the project directory, you can run:
